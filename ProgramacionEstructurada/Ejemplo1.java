@@ -15,6 +15,7 @@ public class Ejemplo1 {
         if (annio%4==0 & annio%100!=0 || annio%400==0) {
             System.out.println(annio + " Es un año bisiesto.");
         }else System.out.println(annio + " No es un año bisiesto.");
+        sc.close();
     }
 
 }

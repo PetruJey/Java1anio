@@ -26,5 +26,6 @@ public class Ejemplo5 {
             }
         }
         System.out.println("La suma de los numeros pares es: " + res);
+        sc.close();
     }
 }

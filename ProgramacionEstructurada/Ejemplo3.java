@@ -22,5 +22,6 @@ public class Ejemplo3 {
             etapa = "Adulto mayor";
         }
         System.out.println("Eres un " + etapa + " a tu edad de " + edad + " años.");
+        sc.close();
     }
 }

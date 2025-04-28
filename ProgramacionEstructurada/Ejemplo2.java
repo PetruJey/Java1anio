@@ -15,5 +15,6 @@ public class Ejemplo2 {
             mayor = (num[i] > mayor) ? num[i]: mayor;
         }
         System.out.println("El numero mayor es: " + mayor);
+        sc.close();
     }
 }

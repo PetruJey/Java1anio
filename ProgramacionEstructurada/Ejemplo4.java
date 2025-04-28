@@ -34,6 +34,6 @@ public class Ejemplo4 {
                 break;
         }
         System.out.println("- Precio Final: $" + proddis);
-
+        sc.close();
     }
 }
